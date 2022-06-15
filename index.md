@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+<p style="color:#CD5C5C;">Nourish.dRoot/</p>
+ 
 
-You can use the [editor on GitHub](https://github.com/BeeChains/droot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+| [@innerinetco](https://twtter.com/innerinetco) | [IAm.BarronD/](http://iam.barrond.hns.to/) | [Nourish.dRoot/](http://nourish.droot/) | [dRoot/](http://droot/)
+| [𓂀🕸/](http://xn--ts7ds574a.hns.is/) | [InnerINetCo/](https://innerinetco/) | [InnerINetwork/](https://innerinetwork/) | [Link Tree @hnsroot](https://linktr.ee/hnsroot)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![image](https://mawiycf24hyz52al2ja4itdh43iezu6ycovw4bl7dns5tebx.arweave.net/YCy-MCLrh8Z7oC9JBxExn5tBM09gTq24Ffx-tl2ZA3c)](http://nourish.droot/)
 
-### Markdown
+[![image](https://yz2v72k7gptyvrq7kfaaw66a2la6x2ojmmurlgiggeh3o3nf.arweave.net/xnVf6V8z54rGH1FAC3v_A0sHr6cljKR_WZBjEPt22ls)](http://home.davenportroots.hns.is/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BeeChains/droot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Powered by Handshake [![image](https://24s2i526mdzy6znnleligbd4t6nccjk2afnuykli6abfkncy.arweave.net/1yWkd15g849lrVkWgwR8n5ohJVoBW0wpaPACVT-R-YM)](https://handshake.org/)
